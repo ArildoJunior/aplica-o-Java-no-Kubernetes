@@ -1,2 +1,2 @@
-# aplica-o-Java-no-Kubernetes
+# aplicação-Java-no-Kubernetes
 Palestra Digital Innovation
